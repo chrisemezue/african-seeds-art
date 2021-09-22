@@ -15,8 +15,8 @@ Content cell | Peace Seed Art |This artwork shows a bird hovering over a Battlef
 
 #### Idea
 1. We give the model _our artwork_ as the image and a text. For the text, we explore two scenarios:
-  a. We give the full interpretation as the text. We call this ***Setup A***.
-  b. We give a one-sentence summary of the artwork. We refer to this as ***Setup B***.
+  1. We give the full interpretation as the text. We call this ***Setup A***.
+  2. We give a one-sentence summary of the artwork. We refer to this as ***Setup B***.
 2. The model learns from both the text and _our artwork_ through a joint optimization task.
 4. While learning, the model outputs an abstract art (or series of abstract pictures during its learning process which we compile into a video) which is the model’s interpretation of _our artwork_ and the text.
 

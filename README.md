@@ -9,7 +9,7 @@ In this project, we work with three unique artworks of Nefertiti Emezue which we
 #### Art works and Model Results
 Picture of artwork | Title of artwork | Full Interpretation (for Setup A) | One-sentence interpretation (for Setup B) 
 ------------- | ------------- | ------------- | -------------
-Content Cell  | Education Connecting the World Dawa art | This artwork represents the connections of  education and the globe. This artwork represents the idea that education serves as a unifying factor between countries of the World. | Global education connects the world.
+![alt text](./artworks/Art2.jpg)  | Education Connecting the World Dawa art | This artwork represents the connections of  education and the globe. This artwork represents the idea that education serves as a unifying factor between countries of the World. | Global education connects the world.
 Content Cell  | African Bride Seed Art | This artwork captures the state of an excited Nigerian bride who comes out during the traditional wedding ceremony to find her husband.| A Gleeful Nigerian bride on her traditional attire on her wedding day.
 Content cell | Peace Seed Art |This artwork shows a bird hovering over a Battlefield Cross. A battlefield cross signifies a dead soldier and it is a symbolic replacement of a cross, or marker appropriate to an individual service-member.  It is made up of the soldier's rifle stuck into the ground or into the soldier's boots, with helmet on top.  The bird symbolizes Peace whilst the battlefield cross  symbolizes the casualties of war. “Peace” expresses the hope that despite the aridity that has crept over most African countries like Nigeria as a result of violence, there is hope for peace. | The tranquility of a fallen hero.
 

@@ -31,3 +31,10 @@ LEARNING_RATE = 1e-5
 EPOCHS=20
 ITERATIONS = 1050
 ```
+## Results
+
+
+## Future Work
+There is room to explore in:
+1. leveraging the GAN or Transformer-based networks for art imagination.
+2. Training the model with more African-inspired artworks in order to improve the model's imagination of African concepts.

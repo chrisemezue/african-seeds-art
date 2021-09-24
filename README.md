@@ -33,7 +33,7 @@ ITERATIONS = 1050
 ```
 ## Results
 ![alt text](./artworks/compressed_african_seeds_art_03.mp4)
-[![Alternate Text]({./artworks/african_seeds_art_01.png})]({./artworks/compressed_african_seeds_art_03.mp4} "Link Title")
+[![Alternate Text]({./artworks/african_seeds_art_01.png})]({./artworks/compressed_african_seeds_art_03.mp4})
 
 
 ## Future Work

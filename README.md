@@ -32,7 +32,9 @@ EPOCHS=20
 ITERATIONS = 1050
 ```
 ## Results
-https://user-images.githubusercontent.com/36100251/134716697-fdc464c2-0484-4b9e-ae6a-6979a3698f73.mp4
+1. The Setup A gave a better imagination. We compile our results into the video below:
+
+https://user-images.githubusercontent.com/36100251/134716851-095a575f-f33f-4c81-af95-99f92d5e4547.mp4
 
 ## Future Work
 There is room to explore in:

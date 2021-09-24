@@ -32,7 +32,7 @@ EPOCHS=20
 ITERATIONS = 1050
 ```
 ## Results
-![alt text](https://user-images.githubusercontent.com/36100251/134716484-b07f6cc2-1830-4232-9100-dac67b3f23ab.mp4)
+https://user-images.githubusercontent.com/36100251/134716697-fdc464c2-0484-4b9e-ae6a-6979a3698f73.mp4
 
 ## Future Work
 There is room to explore in:

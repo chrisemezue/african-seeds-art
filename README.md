@@ -32,9 +32,7 @@ EPOCHS=20
 ITERATIONS = 1050
 ```
 ## Results
-![alt text](./artworks/compressed_african_seeds_art_03.mp4)
-[![Alternate Text]({./artworks/african_seeds_art_01.png})]({./artworks/compressed_african_seeds_art_03.mp4})
-
+![alt text](https://user-images.githubusercontent.com/36100251/134716484-b07f6cc2-1830-4232-9100-dac67b3f23ab.mp4)
 
 ## Future Work
 There is room to explore in:

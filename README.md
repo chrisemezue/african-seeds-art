@@ -32,7 +32,7 @@ EPOCHS=20
 ITERATIONS = 1050
 ```
 ## Results
-
+./artworks/compressed_african_seeds_art_03.mp4
 
 ## Future Work
 There is room to explore in:

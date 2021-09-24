@@ -6,7 +6,7 @@ African seeds art 2021  is an artificial intelligence (AI) procreated creation w
 
 ## Our Work
 In this project, we work with three unique artworks of Nefertiti Emezue which were created with African seeds.
-#### Art works and Model Results
+#### African Seeds artworks and their interpretation
 Picture of artwork | Title of artwork | Full Interpretation (for Setup A) | One-sentence interpretation (for Setup B) 
 ------------- | ------------- | ------------- | -------------
 ![alt text](./artworks/Art2.jpg)  | Education Connecting the World Dawa art | This artwork represents the connections of  education and the globe. This artwork represents the idea that education serves as a unifying factor between countries of the World. | Global education connects the world.

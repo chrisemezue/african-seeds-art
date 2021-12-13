@@ -40,3 +40,4 @@ https://user-images.githubusercontent.com/36100251/134716851-095a575f-f33f-4c81-
 There is room to explore in:
 1. leveraging the GAN or Transformer-based networks for art imagination.
 2. Training the model with more African-inspired artworks in order to improve the model's imagination of African concepts.
+3. [Differential Rastirizer](https://people.csail.mit.edu/tzumao/diffvg/) thanks to Peter Schaldenbrand.
